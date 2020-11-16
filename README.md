@@ -1,3 +1,5 @@
-# CourseEra
-For course era
-I am editing the README file. Adding some more details about the project description.
+Submitted By:
+Sameer Ahmed Mohammed 300062168
+
+Report.pdf - project Report
+Code Folder - Containes the  notebook files (.ipynb)
